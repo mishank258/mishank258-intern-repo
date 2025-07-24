@@ -3,7 +3,7 @@ What is Agile, and how does it differ from traditional project management?
 Agile is a flexible approach to software development that focuses on collaboration, quick feedback, and continuous improvement. Agile works in smaller cycles (called sprints or iterations) to deliver value quickly and adapt to changes while traditional project management followed a linear sequence of phases involving requirements, design, devlpment, testing and deployment.
 
 What are the core values and principles of Agile? (Hint: Check the Agile Manifesto.)
-The Agile Manifesto values people and their communication more than relying on strict processes or tools. It prioritizes creating functional software over producing detailed documents, encourages working closely with customers instead of sticking to formal contracts, and prefers adapting to changes rather than rigidly following a set plan.\
+The Agile Manifesto values people and their communication more than relying on strict processes or tools. It prioritizes creating functional software over producing detailed documents, encourages working closely with customers instead of sticking to formal contracts, and prefers adapting to changes rather than rigidly following a set plan.
 Agile also follows 12 key principles:
 Deliver working software frequently.  
 Welcome changing requirements, even late in development.  
