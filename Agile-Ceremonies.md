@@ -22,12 +22,14 @@ For me as an intern, daily stand-ups help the most. I get to share updates, unde
 
 🛠️ Task
 Attend a stand-up meeting and observe how updates are shared.
-Each team member shared what they did yesterday, what they’re working on today, and whether they had any problems.
-Updates were clear, concise, and focused.
+On the 23rd of July, our stand-up included an important security discussion. One teammate shared that they received a phishing email impersonating Jeremy, requesting Apple gift cards. This raised awareness across the team about phishing attacks. The rest of the updates followed the usual format—sharing what was done yesterday, what each person was working on today, and any blockers. Updates were clear and focused, but this incident emphasized the importance of vigilance around communication channels.<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/066b56af-1685-4404-b651-33e8376df0c6" />
+
+
 
 Participate in a retrospective or review past notes from one.
-I reviewed previous retrospective notes on firefiles as I was not able to attend the meetings.
-Team discussed their progress and what are they upto.
+Since I couldn’t attend the retrospective meeting, I reviewed the notes shared on Firefiles. The team discussed overall progress and what each member was currently focused on. For instance, on 22nd July, one teammate had completed the 0th milestone, while others were actively preparing to tackle the 1st milestone. Reviewing these notes helped me stay in sync with team momentum and ensured I remained aligned with our next steps.
+<img width="1902" height="853" alt="Screenshot 2025-07-26 013226" src="https://github.com/user-attachments/assets/e578e813-85a9-40bd-992b-c886572e6d8e" />
+<img width="1917" height="1078" alt="Screenshot 2025-07-26 013622" src="https://github.com/user-attachments/assets/faf7a6a5-803d-4e01-b0ac-65a9547d37e3" />
 
 Document one change you can make to improve your team collaboration.
 I will start asking teammates if they need help when I finish my tasks early, to support team progress.
