@@ -20,10 +20,12 @@ I will work on less tasks at a time which will improve the efficiency and update
 
 🛠️ Task
 Check out Focus Bear’s Kanban board and note how tasks are structured. (Hint: Look in GitHub Projects.)
-Checked out the Kanban Board and understood the projects and milestones.
+The GitHub Projects for Focus Bear are structured around clearly defined milestones, which are accessible via the Issues tab. Each milestone marks a distinct stage in the internship journey. For example, Milestone 0 includes onboarding activities such as "Working in an Agile team" and understanding "Company Policies", while Milestone 1 focuses on learning about the Focus Bear platform and setting personal goals. This structured approach continues up to Milestone 8, with each containing multiple tasks to be completed in sequence. Tasks progress through columns labeled To Do, In Progress, Review, and Done, offering a transparent view of the workflow and individual progress.<img width="1879" height="826" alt="image" src="https://github.com/user-attachments/assets/63cfcd30-675b-467f-81ee-8e2ec1a4dd23" />
 
 Move at least one task through the Kanban process and update its status correctly.
-Already marked complete on board
+These tasks have been completed so moved to closed and completed.
+<img width="1857" height="799" alt="image" src="https://github.com/user-attachments/assets/7db240ab-49f8-408f-a33e-b34d088df7c4" />
+In one of the tasks I slept while completing it, so I labelled that to documentation, so when woke up I continued my work.
 
 Identify one way you can improve task tracking in your role.
-I will breakdown the tasks into parts which will improve clarity and efficiency.
+I will breakdown the tasks into parts which will improve clarity and efficiency and start including clearer labels and due dates on each task and link them to milestones.
