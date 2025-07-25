@@ -29,7 +29,6 @@ On the 23rd of July, our stand-up included an important security discussion. One
 Participate in a retrospective or review past notes from one.
 Since I couldn’t attend the retrospective meeting, I reviewed the notes shared on Firefiles. The team discussed overall progress and what each member was currently focused on. For instance, on 22nd July, one teammate had completed the 0th milestone, while others were actively preparing to tackle the 1st milestone. Reviewing these notes helped me stay in sync with team momentum and ensured I remained aligned with our next steps.
 <img width="1902" height="853" alt="Screenshot 2025-07-26 013226" src="https://github.com/user-attachments/assets/e578e813-85a9-40bd-992b-c886572e6d8e" />
-<img width="1917" height="1078" alt="Screenshot 2025-07-26 013622" src="https://github.com/user-attachments/assets/faf7a6a5-803d-4e01-b0ac-65a9547d37e3" />
 
 Document one change you can make to improve your team collaboration.
 I will start asking teammates if they need help when I finish my tasks early, to support team progress.
