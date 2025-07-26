@@ -22,5 +22,14 @@ How can you remind yourself to maintain good posture and take breaks throughout 
 I plan to use Focus Bear to support my well-being during work by setting reminders every 45 minutes to take a movement break and every 2 hours to check my posture. Additionally, I’ve set up a timer to help me balance focused work sessions with regular breaks, ensuring sustained productivity and reduced physical strain throughout the day.
 
 🛠️ Task
+Adjust your laptop setup based on ergonomic best practices.
+I adjusted my laptop setup according to ergonomic best practices by adding a laptop cooling stand, which not only helps with heat management but also raises the screen to a comfortable eye level, reducing neck strain. I already had a desk and chair in place, and to further improve my workspace, I added a portable external monitor for increased screen space and connected a mouse and keyboard to maintain an ergonomic typing posture.
 
+Identify at least one piece of equipment that could improve your posture and comfort.
+One piece of equipment that significantly improved my posture and comfort is a laptop cooling stand. It raises the screen to eye level, reducing neck strain and promoting a more upright sitting posture. Additionally, it helps with device cooling during long work sessions.
 
+Try using posture and movement reminders for a full workday and note any improvements. (Hint: Focus Bear has built-in reminders for movement breaks!)
+For this task, I followed posture and movement reminders manually by keeping an eye on the clock. I tried to follow the 20-20-20 rule and included regular stretching throughout the day. However, I occasionally forgot to take breaks or check my posture, which impacted consistency. I plan to start using Focus Bear soon, as its built-in reminders will help me stay on track more effectively and ensure I maintain healthy habits throughout the workday.
+
+Document at least one workspace change or habit adjustment you made.
+I started implementing regular movement and posture checks by following the 20-20-20 rule—every 20 minutes, I looked 20 feet away for 20 seconds—and stretching every hour. Although I initially relied on checking the time manually, I plan to use Focus Bear to automate these reminders and ensure consistency.
