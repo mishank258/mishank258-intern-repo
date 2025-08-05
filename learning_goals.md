@@ -6,4 +6,6 @@ I can bring a strong work ethic, adaptability, and a willingness to learn. I’m
 
 I feel less confident when it comes to asking for help quickly, as I often try to solve problems alone for too long. I’d like to improve my ability to reach out earlier and communicate blockers effectively.
 
+One past experience that pushed me to grow was during a group project where we were building a Building Management System (BMS) website. Part-way through, one teammate dropped out and the other didn’t contribute — leaving me to handle everything. I took ownership of planning, assigning any remaining tasks, and developing the entire website myself. It was a challenge balancing all the responsibilities at once, but the experience taught me a lot about staying adaptable, managing pressure, and taking initiative to see things through.
+
 Success for me would mean contributing meaningfully to the team’s projects, learning new skills that I can carry forward, and building confidence in a professional setting. It would also mean leaving with strong relationships and positive feedback from my team.
