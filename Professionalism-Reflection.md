@@ -10,7 +10,7 @@ Giving feedback should be based on outcome not personality for example The code 
 
 Read the guide and understood Communicating clearly, take initiative, seek feedback, and be reliable to build trust with your supervisor.
 
-📝 Reflection
+📝 Reflection 
 Have you ever experienced or witnessed great teamwork and professionalism? What made it effective?
 Yes During a past university project each member got different roles, In that project as well I got the role of frontend devloper. We followed professionalism as each member had clearly defined roles and we held short daily check-ins and one 2 hour session each week. We gave feedback respectfully and helped each other, which made the project smooth and stress-free.  
 
