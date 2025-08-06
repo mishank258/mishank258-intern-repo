@@ -28,3 +28,18 @@ Clear commit messages make it easier for team members to read the history of the
 
 **How can poor commit messages cause issues later?**  
 Bad or vague commit messages like “updated” or “fixed stuff” don’t give any real information. This makes it hard in the future to understand what was changed, why it was changed, or when a bug was added. That can waste a lot of time when other people (or even I myself later) try to track down problems or understand the code history.
+
+
+### 📌 Branching & Team Collaboration
+
+### My Branch and PR Practice
+ created a branch called `pr-practice` where I made these changes. I am currently waiting to get approval to merge this branch into the main branch. Once the changes are merged and approved, I will delete the `pr-practice` branch to keep the repository clean.
+
+### Why is pushing directly to the main branch problematic?
+Pushing directly to the main branch can cause problems because it may introduce bugs or errors straight into the main code. This can affect everyone who is working on the project and cause issues for the whole team.
+
+### How do branches help with reviewing code?
+Branches allow us to work on bugs or new features separately without affecting the main code. They let team members review the changes through commit messages and pull requests before merging. This way, the main code stays safe and stable.
+
+### What happens if two people edit the same file on different branches?
+If two people edit the same file on different branches, their changes stay separate until the branches are merged. When merging, Git will check for conflicts and ask the developers to fix any overlapping changes so everything works together properly.
