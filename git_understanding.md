@@ -1,0 +1,1 @@
+A Pull Request (PR) is a way to propose and collaborate on changes in a GitHub repository. It allows team members to review, discuss, and suggest improvements to the code before merging the changes into the main codebase. PRs help maintain code quality, facilitate teamwork, and keep a clear history of changes.
