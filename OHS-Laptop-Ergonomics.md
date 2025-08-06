@@ -11,7 +11,7 @@ For every individual different adjustments are made according to their own comfo
 What are some daily habits that reduce the impact of prolonged laptop use? (e.g., movement breaks, posture checks, eye strain reduction techniques)
 The most important is 20-20-20 rule that is every 20 mins, look at something 20 feet away for 20 seconds. Stectrching every 30 to 60 mins and posture checks.
 
-📝 Reflection
+📝 Reflection 
 What equipment changes can you make to improve your workspace setup? (e.g., using an external monitor, adjusting your chair, using a laptop stand)
 To improve my workspace setup, I added an external monitor for better multitasking and paired it with a wireless keyboard and mouse to maintain ergonomic hand positioning. I elevated my laptop using a stand to keep the screen at eye level, which helps reduce neck strain. To further enhance comfort, I added cushions to my chair’s armrests for wrist and elbow support and attached a car-style neck pillow to support my neck and upper back. These changes have significantly increased both comfort and focus during long work sessions.
 
