@@ -1,7 +1,7 @@
 🔍 Research & Learn
 What is a “User Manual for Me”, and why do teams use them?
 A “User Manual for Me” is a short guide that explains how someone works best — like their communication style, working hours, and preferences. Teams use it to understand each other better, work more smoothly together, and avoid confusion or misunderstandings.
-
+ 
 What categories are helpful to include? (e.g., communication style, work habits, feedback preferences)
 Helpful categories in a “User Manual for Me” include your communication style (e.g., short messages or emails), work habits (like best focus times or distractions), and feedback preferences (such as gentle or direct, public or private). Sharing your collaboration style (like liking clear roles or avoiding last-minute tasks) is also useful. Adding fun facts or personality traits can help teammates connect and work better together.
 
