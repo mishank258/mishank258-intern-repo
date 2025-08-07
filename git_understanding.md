@@ -43,3 +43,22 @@ Branches allow us to work on bugs or new features separately without affecting t
 
 ### What happens if two people edit the same file on different branches?
 If two people edit the same file on different branches, their changes stay separate until the branches are merged. When merging, Git will check for conflicts and ask the developers to fix any overlapping changes so everything works together properly.
+
+### 📌 Debugging with git bisect
+
+## What does git bisect do?
+Git bisect helps find the exact commit where a bug was introduced by using binary search. It asks you to mark commits as good or bad and narrows down the problem quickly.
+
+## When would you use it in a real-world debugging situation?
+You use git bisect when you know a bug exists but don't know which commit caused it. It helps find the buggy commit fast, especially when there are many commits.
+
+## How does it compare to manually reviewing commits?
+Manually checking each commit one by one takes a lot of time. Git bisect cuts the number of checks needed by half each time, so it is much faster and easier.
+
+## Testing I Did
+I created a simple Python script for addition and subtraction.  
+I made several commits, then introduced bugs deliberately in these functions.  
+Using git bisect, I marked commits as good or bad, tested the script output, and found the exact commit where the bug was added.  
+This showed me how git bisect helps quickly find bugs in code history.
+![Commit list](<Screenshot 2025-08-07 235107.png>)
+![Bug found](<Screenshot 2025-08-07 235100.png>)
