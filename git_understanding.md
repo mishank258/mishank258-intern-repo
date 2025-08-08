@@ -64,7 +64,7 @@ This showed me how git bisect helps quickly find bugs in code history.
 ![Bug found](<Screenshot 2025-08-07 235100.png>)
 
 
-📌 Advanced Git Commands & When to Use Them
+### 📌 Advanced Git Commands & When to Use Them
 # Git Commands Reflection
 
 ## git checkout main -- <file>  
@@ -95,3 +95,19 @@ This is my testing example
 ![](<Screenshot 2025-08-07 235444.png>)
 ![](<Screenshot 2025-08-08 133936.png>)
 ![](<Screenshot 2025-08-08 134544.png>)
+
+### 📌 Merge Conflicts & Conflict Resolution
+## Merge Conflicts & Conflict Resolution
+
+**What caused the conflict?**  
+Conflict was caused by commits from different branches changing the same part of the same file, so Git didn't know which change to keep.
+
+**How did you resolve it?**  
+I solved it by selecting one commit and not selecting the other using VS Code's merge conflict tools. The Git desktop client took me to VS Code to solve the conflict.
+
+**What did you learn?**  
+Merge conflicts happen when changes overlap. Using tools like VS Code makes it easy to pick which change to keep and fix conflicts quickly.
+
+here are the screenshots of the testing.
+![](<Screenshot 2025-08-08 144642.png>)
+![](<Screenshot 2025-08-08 144652.png>)
