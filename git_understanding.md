@@ -63,8 +63,8 @@ This showed me how git bisect helps quickly find bugs in code history.
 ![Commit list](<Screenshot 2025-08-07 235107.png>)
 ![Bug found](<Screenshot 2025-08-07 235100.png>)
 
-📌 Advanced Git Commands & When to Use Them
 
+📌 Advanced Git Commands & When to Use Them
 # Git Commands Reflection
 
 ## git checkout main -- <file>  
