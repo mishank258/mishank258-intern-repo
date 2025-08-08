@@ -111,3 +111,18 @@ Merge conflicts happen when changes overlap. Using tools like VS Code makes it e
 here are the screenshots of the testing.
 ![](<Screenshot 2025-08-08 144642.png>)
 ![](<Screenshot 2025-08-08 144652.png>)
+
+### 📌 Git Concepts: Staging vs. Committing
+## Staging vs Committing in Git
+
+**What is the difference between staging and committing?**  
+Staging is preparing the file with content and code for the next commit. Committing is saving those staged changes in the main repo.
+
+**Why does Git separate these two steps?**  
+Git does it in two steps to let me double check and change things before commit, so I can carefully review what goes in.
+
+**When would you want to stage changes without committing?**  
+When I’m working on many tasks at once and want to commit only some changes, or when I want to review changes before committing.
+
+I have already attached many screnshots which shows the that I am stagging and committing the files using vs code terminal
+![](<Screenshot 2025-08-08 152525.png>)
