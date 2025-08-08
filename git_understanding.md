@@ -126,3 +126,4 @@ When I’m working on many tasks at once and want to commit only some changes, o
 
 I have already attached many screnshots which shows the that I am stagging and committing the files using vs code terminal
 ![](<Screenshot 2025-08-08 152525.png>)
+  
