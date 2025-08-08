@@ -62,3 +62,36 @@ Using git bisect, I marked commits as good or bad, tested the script output, and
 This showed me how git bisect helps quickly find bugs in code history.
 ![Commit list](<Screenshot 2025-08-07 235107.png>)
 ![Bug found](<Screenshot 2025-08-07 235100.png>)
+
+📌 Advanced Git Commands & When to Use Them
+
+# Git Commands Reflection
+
+## git checkout main -- <file>  
+This command restores a single file from the main branch, undoing any local changes I made to that file in my current branch.  
+**When to use:** If I mess up a file and want to get back the last committed version from main without touching other files.  
+**Surprise:** It’s really handy to fix just one file without resetting the whole branch.
+
+## git cherry-pick <commit>  
+This applies one specific commit from another branch onto my current branch without merging all changes from that branch.  
+**When to use:** When I want a bug fix or feature from a feature branch, but don’t want to merge the entire branch yet.  
+**Surprise:** It creates a new commit with a different hash but same changes — and can cause conflicts like merges.
+
+## git log  
+Shows commit history of the current branch, including commit IDs, authors, dates and messages.  
+**When to use:** To understand project history, find when changes happened, or grab commit hashes for other commands.  
+**Surprise:** There are so many options to filter and format the output, which makes it really flexible.
+
+## git blame <file>  
+Shows who last changed each line in a file, including commit, author, and date info.  
+**When to use:** When I want to find who wrote or last touched a specific line of code, especially useful in debugging or understanding old code.  
+**Surprise:** It’s super precise and fast even on big files, and really helps track down history line by line.
+
+---
+
+Overall, these commands are super important for teamwork and maintaining code over time. They help manage changes carefully, avoid unnecessary merges, and understand exactly what’s happening in the codebase.
+
+This is my testing example 
+![](<Screenshot 2025-08-07 235444.png>)
+![](<Screenshot 2025-08-08 133936.png>)
+![](<Screenshot 2025-08-08 134544.png>)
