@@ -124,6 +124,6 @@ Git does it in two steps to let me double check and change things before commit,
 **When would you want to stage changes without committing?**  
 When I’m working on many tasks at once and want to commit only some changes, or when I want to review changes before committing.
 
-I have already attached many screnshots which shows the that I am stagging and committing the files using vs code terminal
+I have already attached many screenshots which shows the that I am stagging and committing the files using vs code terminal
 ![](<Screenshot 2025-08-08 152525.png>)
   
