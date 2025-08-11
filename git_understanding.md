@@ -27,15 +27,22 @@ A good commit message is short, clear, and tells exactly what was changed and wh
 As seen in this image the commit message is overly detailed. 
 
 <img width="660" height="671" alt="image" src="https://github.com/user-attachments/assets/79ed79e3-3f38-43fd-b454-0678d646323f" />
-In this image we can see the content is clearly well structured and too the point and can be easily understood with just one look.
+In this image we can see the message is clearly well structured and too the point and can be easily understood with just one look.
 
-
+<img width="653" height="667" alt="image" src="https://github.com/user-attachments/assets/e7cfb97a-1a6f-420f-adec-6ad65c847b50" />
+In this image we can see that the commit message is vague and not able to understand that what has happend or edited in the file.
 
 **How does a clear commit message help in team collaboration?**  
 Clear commit messages make it easier for team members to read the history of the project and understand what has happened without opening every file. This helps during reviews, debugging, and discussions because everyone knows what each commit is for.
 
 **How can poor commit messages cause issues later?**  
 Bad or vague commit messages like “updated” or “fixed stuff” don’t give any real information. This makes it hard in the future to understand what was changed, why it was changed, or when a bug was added. That can waste a lot of time when other people (or even I myself later) try to track down problems or understand the code history.
+
+<img width="860" height="460" alt="image" src="https://github.com/user-attachments/assets/2508cbef-eff4-47ef-b251-d6ab60e45b30" />
+On the open source repo I found these commit messages as good as one can easily understand what is happening here and giving clear instructions on each commit. 
+
+<img width="874" height="178" alt="image" src="https://github.com/user-attachments/assets/0d81995b-a552-461e-bfce-47b6a3afaf2b" />
+Although I am not able to find a perfectly bad commit message in the repo, but according to me this commit message should be more clear and better.
 
 
 ### 📌 Branching & Team Collaboration
