@@ -15,3 +15,6 @@ VS Code Productivity Shortcuts
 - **Ctrl + `**: Open or hide the built-in VS Code terminal.
 Out of these, I believe **multiple cursors (Alt + Click)** and **quick file navigation (Ctrl + P)** will be the most useful in my daily workflow, since they allow me to quickly move around and edit code much faster than using a mouse.
 Keyboard shortcuts help improve productivity by keeping my hands on the keyboard and reducing context switching. This means fewer interruptions, faster editing, and smoother coding sessions overall.
+
+I practiced the shortcuts on this screenshot and wrote their uses as well.
+<img width="1898" height="990" alt="Screenshot 2025-08-11 184609" src="https://github.com/user-attachments/assets/df634faa-54a7-4fff-8211-cf5845a0980d" />
