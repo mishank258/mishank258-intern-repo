@@ -18,3 +18,5 @@ Keyboard shortcuts help improve productivity by keeping my hands on the keyboard
 
 I practiced the shortcuts on this screenshot and wrote their uses as well.
 <img width="1898" height="990" alt="Screenshot 2025-08-11 184609" src="https://github.com/user-attachments/assets/df634faa-54a7-4fff-8211-cf5845a0980d" />
+
+I used terminal shortcut, ctrl+g as well while doing the git bisct during the milestone 3. It made my work easier as I not need to move my cursor towards the terminal tab and lines.
