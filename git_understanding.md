@@ -5,7 +5,7 @@
 Pull Requests are important in a team because they allow the code or documents to be reviewed and discussed before they are permanently added to the main branch. This helps team members find mistakes, clear doubts, and suggest improvements. PRs make sure that more than one person looks at the changes, which improves the final quality of the project and keeps everyone aware of what is being added.
 
 ## What makes a well-structured PR?
-
+ 
 A good PR:
 - Has a clear, meaningful title
 - Includes a description that explains what was changed and why
