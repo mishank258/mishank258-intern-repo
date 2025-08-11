@@ -91,6 +91,9 @@ This command restores a single file from the main branch, undoing any local chan
 This applies one specific commit from another branch onto my current branch without merging all changes from that branch.  
 **When to use:** When I want a bug fix or feature from a feature branch, but don’t want to merge the entire branch yet.  
 **Surprise:** It creates a new commit with a different hash but same changes — and can cause conflicts like merges.
+<img width="956" height="992" alt="image" src="https://github.com/user-attachments/assets/7111f28c-b01d-46fe-9c30-d347881e8127" />
+As you can see here I first added a new line on file on a new branch, and then cherry picked it on the main branch. 
+
 
 ## git log  
 Shows commit history of the current branch, including commit IDs, authors, dates and messages.  
