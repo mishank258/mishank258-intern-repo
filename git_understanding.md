@@ -23,6 +23,11 @@ While reviewing a PR from a public project (React), I observed there are multipl
 **What makes a good commit message?**  
 A good commit message is short, clear, and tells exactly what was changed and why. It usually starts with an action word like *Add*, *Fix*, *Update*, or *Remove*, and gives enough information so others can quickly understand the change.
 
+<img width="640" height="674" alt="image" src="https://github.com/user-attachments/assets/9447b805-9383-486c-8641-5439068d7e5e" />
+As seen in this image the commit message is overly detailed. 
+
+
+
 **How does a clear commit message help in team collaboration?**  
 Clear commit messages make it easier for team members to read the history of the project and understand what has happened without opening every file. This helps during reviews, debugging, and discussions because everyone knows what each commit is for.
 
