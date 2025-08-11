@@ -26,6 +26,9 @@ A good commit message is short, clear, and tells exactly what was changed and wh
 <img width="640" height="674" alt="image" src="https://github.com/user-attachments/assets/9447b805-9383-486c-8641-5439068d7e5e" />
 As seen in this image the commit message is overly detailed. 
 
+<img width="660" height="671" alt="image" src="https://github.com/user-attachments/assets/79ed79e3-3f38-43fd-b454-0678d646323f" />
+In this image we can see the content is clearly well structured and too the point and can be easily understood with just one look.
+
 
 
 **How does a clear commit message help in team collaboration?**  
