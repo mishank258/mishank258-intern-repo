@@ -17,6 +17,7 @@ I found the session setup straightforward, with options to start a session immed
 
 And according to me it does not have anything that basically put emphasis on ADHD but still its theme and the blog section on the front page was a bit attractive although it has similar features like focus bear, therefore focus bear has a bit more advanced features but they are a bit complicated as for a user to understand, Because people who have ADHD they already lack paying attention. 
 
+![WhatsApp Image 2025-08-11 at 19 06 52_ada0aaa2](https://github.com/user-attachments/assets/a9e21105-544e-4203-a41d-71457e9613a8)
 ![WhatsApp Image 2025-08-11 at 18 54 51_64876234](https://github.com/user-attachments/assets/c4d3e197-add7-408a-a3b7-5c2187000c2f)
 ![WhatsApp Image 2025-08-11 at 18 54 51_bc23c5fa](https://github.com/user-attachments/assets/622e2771-fecc-4782-97ed-b2712c94201d)
 ![WhatsApp Image 2025-08-11 at 18 54 51_f507e45e](https://github.com/user-attachments/assets/53c96500-15a2-4bee-8091-fd1cab9adeac)
