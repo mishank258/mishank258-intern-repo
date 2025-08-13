@@ -55,3 +55,13 @@ Refactoring improves code readability and maintainability. Key techniques includ
 Example screenshot is here:
 <img width="919" height="973" alt="Screenshot 2025-08-13 182448" src="https://github.com/user-attachments/assets/cf8a49e9-1409-418f-a0b1-2d09877d4016" />
 <img width="848" height="963" alt="Screenshot 2025-08-13 182527" src="https://github.com/user-attachments/assets/5be532c3-3dbe-4904-82d1-db6fed71c4e6" />
+
+# 📌 Avoiding Code Duplication
+**Issues with Duplicated Code:** Repeating the same code in multiple places makes it harder to update, increases the chance of bugs, and reduces readability.
+
+**How Refactoring Improved Maintainability:** By putting repeated logic into functions, the code became shorter, easier to read, and simpler to modify or fix in the future.
+DRY Principle: Don’t Repeat Yourself. Instead of writing the same logic multiple times, you put it into a function and call it wherever needed. This makes the code shorter, cleaner, and easier to maintain. Extract Function is one way to implement DRY—you break repeated or complex code into smaller, reusable functions.
+Here is the example code screenshot:
+<img width="905" height="977" alt="Screenshot 2025-08-13 184417" src="https://github.com/user-attachments/assets/a7bc04aa-299a-48e9-ba82-0caf9a1acd55" />
+<img width="931" height="990" alt="Screenshot 2025-08-13 184505" src="https://github.com/user-attachments/assets/f60e9fda-457a-401d-b9ca-36221fc42e8f" />
+
