@@ -1,4 +1,4 @@
-# Unit Testing Reflection
+# 📌 Unit Testing Reflection
 ### How do unit tests help keep code clean?
 Unit tests verify that individual functions work as expected, catching bugs early before they affect the whole program. They make refactoring safer and encourage writing modular, maintainable code. In my case, the tests quickly revealed that my `add` and `subtract` functions were incorrect, helping me fix them before further use.
 
@@ -38,3 +38,20 @@ Here are screenshots no comments vs good way of commented
 <img width="1006" height="743" alt="image" src="https://github.com/user-attachments/assets/7cbf786d-8ae4-4d29-96f8-016fb1eaef8d" />
 <img width="1919" height="664" alt="image" src="https://github.com/user-attachments/assets/1dfabea0-8a3a-45f7-984d-d24f2b6d8061" />
 
+# 📌 Refactoring Code for Simplicity
+
+**What made the original code complex?**  
+The original code had a long function that did many things at once, with unclear variable names and some repeated code. It was hard to read and understand what each part was doing.
+
+**How did refactoring improve it?**  
+Refactoring broke the code into smaller, simpler functions, gave variables and functions clear names, and removed duplicate code. Now the code is easier to read, understand, and maintain.
+
+**Research:**  
+Refactoring improves code readability and maintainability. Key techniques include:
+- Extracting functions to reduce complexity.
+- Renaming variables and functions for clarity.
+- Removing duplicate code by reusing existing functions.
+
+Example screenshot is here:
+<img width="919" height="973" alt="Screenshot 2025-08-13 182448" src="https://github.com/user-attachments/assets/cf8a49e9-1409-418f-a0b1-2d09877d4016" />
+<img width="848" height="963" alt="Screenshot 2025-08-13 182527" src="https://github.com/user-attachments/assets/5be532c3-3dbe-4904-82d1-db6fed71c4e6" />
