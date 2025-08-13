@@ -65,3 +65,19 @@ Here is the example code screenshot:
 <img width="905" height="977" alt="Screenshot 2025-08-13 184417" src="https://github.com/user-attachments/assets/a7bc04aa-299a-48e9-ba82-0caf9a1acd55" />
 <img width="931" height="990" alt="Screenshot 2025-08-13 184505" src="https://github.com/user-attachments/assets/f60e9fda-457a-401d-b9ca-36221fc42e8f" />
 
+# 📌 Writing Small, Focused Functions
+**Why is breaking down functions beneficial?**  
+Breaking the code into smaller parts makes it easier to read, understand, and test. Each function doing a single thing makes it reusable.
+
+**How did refactoring improve the structure of the code?**  
+Breaking a long function into smaller ones made the code cleaner, more readable, and allowed individual parts to be modified or tested without affecting the rest.
+
+### Research: Best Practices for Small, Single-Purpose Functions
+- **Do one thing at each function (Single Responsibility):** Each function should perform only one task.  
+- **Keep it short:** Functions should be concise and focused.  
+- **Use clear names:** Function names should explain exactly what they do.  
+- **Testable:** Functions should be easy to test independently.  
+- **Reuse code:** Avoid duplication by using functions wherever the same logic is needed.
+All these practices can be seen I applied into the example.
+<img width="1624" height="499" alt="image" src="https://github.com/user-attachments/assets/1d04f341-ccee-4885-a03e-f8789b7e231e" />
+<img width="1418" height="761" alt="image" src="https://github.com/user-attachments/assets/a9666dc8-d0f7-4dfd-b5eb-d79480e8c05d" />
