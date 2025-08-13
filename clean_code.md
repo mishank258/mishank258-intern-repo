@@ -132,11 +132,24 @@ Here are the screenshots of before and after using the npm lint:
 <img width="1485" height="977" alt="Screenshot 2025-08-13 234858" src="https://github.com/user-attachments/assets/da1775d3-56af-4e26-8b18-b46283c7e2da" />
 <img width="1818" height="992" alt="Screenshot 2025-08-13 234957" src="https://github.com/user-attachments/assets/437e4ab0-4639-4fe7-88d9-8438a09bfd25" />
 
-
-
-
-
-
-
-
+# 📌 Understanding Clean Code Principles
+## Research and summarize the following clean code principles in clean_code.md:
+- Simplicity – Keep code as simple as possible
+Code should be simple and easy to read. Avoid making it too complicated. Focus on doing one thing at a time so it’s easier to understand and maintain later.
+- Readability – Code should be easy to understand
+Code should be clear enough that anyone reading it can understand it quickly. Use good variable and function names, proper spacing and indentation, and comments that explain why something is done, not just what it does.
+- Maintainability – Future developers (including you!) should be able to work with the code easily
+Write code in a way that makes it easy to update, fix, or extend in the future. Keep it organized, modular, and follow patterns that make sense.
+- Consistency – Follow style guides and project conventions
+Keep your code consistent in naming, spacing, indentation, and structure. Following a style guide (like Airbnb’s) helps everyone understand your code and makes it predictable.
+- Efficiency – Write performant, optimized code without premature over-engineering
+Code should run well and not waste resources. But don’t over-optimize too early. Focus on clarity first, then optimize only when needed.
+<img width="1252" height="941" alt="Screenshot 2025-08-14 000814" src="https://github.com/user-attachments/assets/0fd4069b-4838-4bd2-a762-5621de6205ea" />
+# Why is this difficult to read?
+- Nested conditionals make the logic hard to follow.
+- Lack of spaces and indentation decreases readability.
+- Function name calc is vague and does not explain its purpose.
+# Cleaned Version
+<img width="1830" height="978" alt="Screenshot 2025-08-14 000912" src="https://github.com/user-attachments/assets/69d1b611-5f3f-4ee1-bdf4-a754807aab3c" />
+Well Structured and much cleaner.
 
