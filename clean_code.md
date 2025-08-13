@@ -27,3 +27,14 @@ Here are the screenshots of before and after the error handling:
 - **Fallback Defaults:** Providing safe default values if something is missing. 
 These strategies together improve the reliability, readability, and maintainability of the code.
 
+# 📌 Commenting & Documentation
+**When should you add comments?**  
+Add comments when the code isn’t easy to understand or when you need to explain why something is done. Use docstrings for functions and classes to show how to use them.
+
+**When should you avoid comments and instead improve the code?**  
+Skip comments if the code can explain itself with clear variable and function names, or by making the logic simpler. Don’t use comments to fix messy code.
+
+Here are screenshots no comments vs good way of commented 
+<img width="1006" height="743" alt="image" src="https://github.com/user-attachments/assets/7cbf786d-8ae4-4d29-96f8-016fb1eaef8d" />
+<img width="1919" height="664" alt="image" src="https://github.com/user-attachments/assets/1dfabea0-8a3a-45f7-984d-d24f2b6d8061" />
+
