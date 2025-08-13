@@ -9,3 +9,21 @@ As you can see clearly in the screenshots about the failed and passed checks.
 <img width="1273" height="578" alt="Screenshot 2025-08-12 175231" src="https://github.com/user-attachments/assets/a7db1907-e3f4-417a-9517-f80a0591ddd9" />
 <img width="1821" height="932" alt="Screenshot 2025-08-12 175327" src="https://github.com/user-attachments/assets/2274fcb2-13f7-4c30-b871-ed857b6fb4f3" />
 
+# 📌 Handling Errors & Edge Cases
+**What was the issue with the original code?**  
+The original code did not check for invalid inputs or handle errors like division by zero. This meant that if the user entered bad data, the program would stop working and show an error.
+
+**How does handling errors improve reliability?**  
+By adding error handling, the program can catch problems before they cause a crash. It can then show a helpful message to the user and continue running. This makes the program more stable, easier to use, and less likely to fail unexpectedly.
+
+Here are the screenshots of before and after the error handling:
+<img width="943" height="963" alt="Screenshot 2025-08-13 162334" src="https://github.com/user-attachments/assets/9652a3e0-617d-4f18-9c62-a00a5899470a" />
+<img width="1010" height="972" alt="Screenshot 2025-08-13 162536" src="https://github.com/user-attachments/assets/86f22e47-afce-44aa-9787-7c2eb0327cb0" />
+
+**Research and techniques used:**  
+- **Validation:** Checking inputs before using them.  
+- **Guard Clauses:** Stopping execution early if inputs are invalid.  
+- **Try-Catch:** Catching exceptions and handling them to avoid crashes.  
+- **Fallback Defaults:** Providing safe default values if something is missing. 
+These strategies together improve the reliability, readability, and maintainability of the code.
+
