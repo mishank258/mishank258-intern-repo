@@ -102,10 +102,35 @@ Here is an example of a simple code:
 <img width="947" height="966" alt="Screenshot 2025-08-13 230200" src="https://github.com/user-attachments/assets/308866dc-3b37-4514-96bd-67fc1b8d3047" />
 <img width="943" height="964" alt="Screenshot 2025-08-13 230249" src="https://github.com/user-attachments/assets/79a3116f-e52b-4558-89d9-0b092ebfbc96" />
 
+# 📌 Code Formatting & Style Guides
+## Why is code formatting important?
+Code formatting is important because it makes the code easier to read and understand. When the code is consistently formatted, it’s easier for both me and other developers to follow the logic, spot errors, and maintain the code in the future. Proper formatting also helps prevent mistakes that can happen when code is messy or inconsistent.
 
+## What issues did the linter detect?
+The linter detected a couple of issues in my code. For example, it showed a warning for using console.log() and an error for using the ++ operator. These rules come from the Airbnb style guide, which enforces best practices and ensures the code is consistent and clean.
 
+## Did formatting the code make it easier to read?
+Yes, formatting the code made it much easier to read. Prettier fixed the indentation, spacing, quotes, and semicolons automatically, which made the structure of the code clear. After formatting, it was easier to follow the flow of the program and understand what each part of the code was doing.
 
+## Personal Reflection
+While setting up ESLint and Prettier, I faced some challenges:
+- Installing the correct versions of ESLint, plugins, and Airbnb config.
+- Fixing errors related to unsupported ESLint exports in older versions.
+- Configuring ESLint correctly for React without triggering unnecessary warnings.
+- Figuring out the correct glob pattern to lint all JS/JSX files.
+- Ensuring Prettier and ESLint rules didn’t conflict.
+Overall, these challenges helped me understand how ESLint and Prettier work together to enforce clean, maintainable code.
 
+## 5 Basic Things I Learned from Airbnb JavaScript Style Guide
+- Always use const by default and let only when reassignment is needed.
+- Prefer single quotes for strings and use template literals for interpolation.
+- Use i += 1 instead of i++ to comply with style rules.
+- Always include braces {} for if, for, and other blocks.
+- Use PascalCase for React components and camelCase for variables and functions.
+
+Here are the screenshots of before and after using the npm lint:
+<img width="1485" height="977" alt="Screenshot 2025-08-13 234858" src="https://github.com/user-attachments/assets/da1775d3-56af-4e26-8b18-b46283c7e2da" />
+<img width="1818" height="992" alt="Screenshot 2025-08-13 234957" src="https://github.com/user-attachments/assets/437e4ab0-4639-4fe7-88d9-8438a09bfd25" />
 
 
 
