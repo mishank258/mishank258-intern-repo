@@ -145,11 +145,11 @@ Keep your code consistent in naming, spacing, indentation, and structure. Follow
 - Efficiency – Write performant, optimized code without premature over-engineering
 Code should run well and not waste resources. But don’t over-optimize too early. Focus on clarity first, then optimize only when needed.
 <img width="1252" height="941" alt="Screenshot 2025-08-14 000814" src="https://github.com/user-attachments/assets/0fd4069b-4838-4bd2-a762-5621de6205ea" />
-# Why is this difficult to read?
+## Why is this difficult to read?
 - Nested conditionals make the logic hard to follow.
 - Lack of spaces and indentation decreases readability.
 - Function name calc is vague and does not explain its purpose.
-# Cleaned Version
+## Cleaned Version
 <img width="1830" height="978" alt="Screenshot 2025-08-14 000912" src="https://github.com/user-attachments/assets/69d1b611-5f3f-4ee1-bdf4-a754807aab3c" />
 Well Structured and much cleaner.
 
