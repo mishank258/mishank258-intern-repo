@@ -81,3 +81,37 @@ Breaking a long function into smaller ones made the code cleaner, more readable,
 All these practices can be seen I applied into the example.
 <img width="1624" height="499" alt="image" src="https://github.com/user-attachments/assets/1d04f341-ccee-4885-a03e-f8789b7e231e" />
 <img width="1418" height="761" alt="image" src="https://github.com/user-attachments/assets/a9666dc8-d0f7-4dfd-b5eb-d79480e8c05d" />
+
+# 📌 Naming Variables & Functions
+## What makes a good variable or function name?
+A good name is descriptive and specific, follows consistent naming conventions, avoids unnecessary abbreviations, uses nouns for variables and verbs for functions, and stays concise yet meaningful.
+
+## What issues can arise from poorly named variables?
+They can cause confusion, slow down understanding, increase debugging difficulty, and lead to accidental misuse of code.
+
+## How did refactoring improve code readability?
+By replacing unclear names with descriptive ones, the code became easier to read, understand, and maintain without needing to inspect every line.
+
+## Best Practices:
+- Be descriptive and specific – names should clearly show intent.
+- Follow consistent naming conventions.
+- Avoid abbreviations unless they are widely known.
+- Use nouns for variables and verbs for functions.
+- Keep named concise but meaningful, avoiding cryptic or unnecessarily long names.
+Here is an example of a simple code:
+<img width="947" height="966" alt="Screenshot 2025-08-13 230200" src="https://github.com/user-attachments/assets/308866dc-3b37-4514-96bd-67fc1b8d3047" />
+<img width="943" height="964" alt="Screenshot 2025-08-13 230249" src="https://github.com/user-attachments/assets/79a3116f-e52b-4558-89d9-0b092ebfbc96" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
