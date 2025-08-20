@@ -8,3 +8,13 @@ Installed React Router and set up a basic routing system in my React app. We cre
 <img width="821" height="306" alt="Screenshot 2025-08-20 184552" src="https://github.com/user-attachments/assets/37d7c13e-8b4d-4830-84c3-3d6fcc498ca8" />
 <img width="578" height="384" alt="Screenshot 2025-08-20 184616" src="https://github.com/user-attachments/assets/38d3022d-3d70-43ec-a8cb-a6b75ad44dd3" />
 <img width="420" height="365" alt="Screenshot 2025-08-20 184621" src="https://github.com/user-attachments/assets/acc4ed21-af1a-4cec-af09-ea6cf5b9ee57" />
+
+# 📌 Working with Lists & User Input
+
+## What are some common issues when working with lists in React?
+When working with lists in React, some common issues include forgetting to add a unique key for each item, which can cause rendering problems. Using the array index as a key can also lead to incorrect updates if items are reordered or removed. Mutating the state array directly instead of creating a new array may prevent the list from updating properly. Additionally, not handling empty inputs can result in blank or duplicate entries, and rendering very large lists without optimization can slow down the app.
+I created a simple form with an input field and a button. When I typed text and clicked the button, the text was added to a list, which was displayed dynamically using .map(). I tested adding multiple items, checked that the list updated correctly, and ensured each list item had a unique key.
+
+<img width="1515" height="883" alt="Screenshot 2025-08-20 191702" src="https://github.com/user-attachments/assets/3d74af31-c084-44d5-9c49-6818db0b104e" />
+<img width="996" height="268" alt="Screenshot 2025-08-20 191708" src="https://github.com/user-attachments/assets/4b619fcf-dd87-4f9d-97cc-63e2dfe2fbab" />
+<img width="943" height="737" alt="image" src="https://github.com/user-attachments/assets/a3da8929-ce0b-44b6-b372-6eaf7170e7fd" />
