@@ -41,4 +41,10 @@ I tried creating a counter component without using useState and directly modifyi
 <img width="835" height="633" alt="Screenshot 2025-08-22 000809" src="https://github.com/user-attachments/assets/a5746a36-3494-4b10-86cf-4bfcbc0f1fe5" />
 <img width="1333" height="544" alt="Screenshot 2025-08-22 000825" src="https://github.com/user-attachments/assets/57f0e7e4-84f2-4d33-b280-fdbd6c72bdc2" />
 
+## 📌 Understanding Components & Props
+# Why are components important in React?
+Components are the core building blocks of React. They let you break your UI into reusable pieces, making code easier to manage, maintain, and debug. Components can accept props, which allows you to pass dynamic data and make them flexible. Using components also promotes code reusability and a structured approach to building complex applications.
+<img width="1762" height="535" alt="Screenshot 2025-08-22 001745" src="https://github.com/user-attachments/assets/f5119a4c-20cc-4b19-8883-b1ae203e255d" />
+<img width="1512" height="379" alt="Screenshot 2025-08-22 001750" src="https://github.com/user-attachments/assets/a00e00f8-bcf3-4e73-b000-f04eed0c73cc" />
+<img width="946" height="645" alt="Screenshot 2025-08-22 001805" src="https://github.com/user-attachments/assets/ccce1d1e-271b-4e5c-a4a7-602b17eadcc5" />
 
