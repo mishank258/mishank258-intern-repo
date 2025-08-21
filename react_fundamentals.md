@@ -34,3 +34,11 @@ I converted the Counter.js component to use Tailwind CSS classes instead of regu
 <img width="1625" height="580" alt="Screenshot 2025-08-21 234420" src="https://github.com/user-attachments/assets/4f868725-eea7-4e3f-8c00-7bea991d699d" />
 <img width="1310" height="586" alt="Screenshot 2025-08-21 234427" src="https://github.com/user-attachments/assets/a1f7c7a7-1cc1-4bf3-9240-aebad9431193" />
 
+# 📌 Handling State & User Input
+## What happens if we modify state directly instead of using setState?
+If we modify state directly instead of using setState (or setCount with useState), React does not detect the change, so the UI does not update automatically. The component will continue displaying the old value, even though the variable has changed internally. Using setState tells React that the state has changed and that it needs to re-render the component, keeping the UI and state in sync.
+I tried creating a counter component without using useState and directly modifying a variable to store the count. I observed that even though the variable updated internally, the UI did not change when I clicked the button. Then, I switched to using useState and setCount, and the counter started updating dynamically as expected. This demonstrated that directly modifying state does not trigger a re-render, and using React’s state management is necessary to keep the UI in sync with data changes.
+<img width="835" height="633" alt="Screenshot 2025-08-22 000809" src="https://github.com/user-attachments/assets/a5746a36-3494-4b10-86cf-4bfcbc0f1fe5" />
+<img width="1333" height="544" alt="Screenshot 2025-08-22 000825" src="https://github.com/user-attachments/assets/57f0e7e4-84f2-4d33-b280-fdbd6c72bdc2" />
+
+
