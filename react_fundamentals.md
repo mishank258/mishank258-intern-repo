@@ -41,10 +41,19 @@ I tried creating a counter component without using useState and directly modifyi
 <img width="835" height="633" alt="Screenshot 2025-08-22 000809" src="https://github.com/user-attachments/assets/a5746a36-3494-4b10-86cf-4bfcbc0f1fe5" />
 <img width="1333" height="544" alt="Screenshot 2025-08-22 000825" src="https://github.com/user-attachments/assets/57f0e7e4-84f2-4d33-b280-fdbd6c72bdc2" />
 
-## 📌 Understanding Components & Props
-# Why are components important in React?
+# 📌 Understanding Components & Props
+## Why are components important in React?
 Components are the core building blocks of React. They let you break your UI into reusable pieces, making code easier to manage, maintain, and debug. Components can accept props, which allows you to pass dynamic data and make them flexible. Using components also promotes code reusability and a structured approach to building complex applications.
 <img width="1762" height="535" alt="Screenshot 2025-08-22 001745" src="https://github.com/user-attachments/assets/f5119a4c-20cc-4b19-8883-b1ae203e255d" />
 <img width="1512" height="379" alt="Screenshot 2025-08-22 001750" src="https://github.com/user-attachments/assets/a00e00f8-bcf3-4e73-b000-f04eed0c73cc" />
 <img width="946" height="645" alt="Screenshot 2025-08-22 001805" src="https://github.com/user-attachments/assets/ccce1d1e-271b-4e5c-a4a7-602b17eadcc5" />
 
+# 📌 Setting Up the Environment
+## What challenges did you face during setup?
+At first, I had trouble getting Tailwind to work in my project. I tried running commands with `rd /s /q` and `Remove-Item`, but PowerShell kept giving me errors. It was confusing because I wasn’t sure if the problem was with Tailwind itself or the way I was deleting/resetting my setup.  
+
+The main challenge was making sure the config file (`tailwind.config.js`) was set up properly and that Tailwind was linked correctly in my CSS. Once I cleaned up the project and followed the steps carefully, it finally worked. Seeing the styles apply was a big relief and made me more confident with the setup process.  
+<img width="1284" height="469" alt="Screenshot 2025-08-22 004639" src="https://github.com/user-attachments/assets/d9f048c3-d6ad-4e9d-946b-4db8900ef841" />
+<img width="1550" height="943" alt="Screenshot 2025-08-22 004621" src="https://github.com/user-attachments/assets/a16b7d41-cf81-4d77-a342-7ddbb5e0ffa2" />
+<img width="1111" height="317" alt="Screenshot 2025-08-22 004651" src="https://github.com/user-attachments/assets/a4bde849-de9f-4f2a-bd71-83285a7d5eba" />
+<img width="854" height="656" alt="Screenshot 2025-08-22 004705" src="https://github.com/user-attachments/assets/03719823-bea9-42fc-ac78-ba73d4e17930" />
