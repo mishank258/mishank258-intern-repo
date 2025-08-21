@@ -18,3 +18,19 @@ I created a simple form with an input field and a button. When I typed text and 
 <img width="1515" height="883" alt="Screenshot 2025-08-20 191702" src="https://github.com/user-attachments/assets/3d74af31-c084-44d5-9c49-6818db0b104e" />
 <img width="996" height="268" alt="Screenshot 2025-08-20 191708" src="https://github.com/user-attachments/assets/4b619fcf-dd87-4f9d-97cc-63e2dfe2fbab" />
 <img width="943" height="737" alt="image" src="https://github.com/user-attachments/assets/a3da8929-ce0b-44b6-b372-6eaf7170e7fd" />
+
+# 📌 Styling with Tailwind CSS
+## What are the advantages of using Tailwind CSS?
+Tailwind CSS makes development faster because you can style components directly without creating separate CSS files. It is easy to customize colors, spacing, fonts, and breakpoints according to your design. It encourages a systematic approach to design, making components consistent and reusable. Tailwind also makes responsive design easier with its built-in utilities, and you don’t have to worry about class name conflicts.
+
+## Potential pitfalls of using Tailwind CSS?
+The initial learning curve can be steep because there are many utility classes to remember. Using too many classes in JSX can make the code look messy. For production, Tailwind should be installed properly to remove unused styles, as using the CDN is not optimal. Overusing utility classes can sometimes make the markup hard to read, and switching to another styling method later may require a lot of refactoring.
+
+## Practical Reflection: Tailwind CSS in this Project
+I converted the Counter.js component to use Tailwind CSS classes instead of regular CSS. I created a reusable Button component styled entirely with Tailwind utility classes. I added hover and active states using Tailwind’s hover: and active: utilities, and used transition-colors for smooth visual feedback. By using Tailwind, I was able to style components directly in JSX without writing separate CSS files, which made the development process faster and more organized. The components are now responsive, reusable, and visually consistent.
+<img width="660" height="569" alt="Screenshot 2025-08-21 234303" src="https://github.com/user-attachments/assets/7d542c08-9a7a-4eef-a9aa-15bee53c5bd5" />
+<img width="801" height="822" alt="Screenshot 2025-08-21 234328" src="https://github.com/user-attachments/assets/e6b4cc39-c8b0-4eb5-9798-c760e9afe6e9" />
+<img width="1043" height="662" alt="Screenshot 2025-08-21 234355" src="https://github.com/user-attachments/assets/922b7433-1939-411d-be6a-06f4f0b97d9b" />
+<img width="1625" height="580" alt="Screenshot 2025-08-21 234420" src="https://github.com/user-attachments/assets/4f868725-eea7-4e3f-8c00-7bea991d699d" />
+<img width="1310" height="586" alt="Screenshot 2025-08-21 234427" src="https://github.com/user-attachments/assets/a1f7c7a7-1cc1-4bf3-9240-aebad9431193" />
+
