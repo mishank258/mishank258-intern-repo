@@ -11,3 +11,9 @@ In my demo, I created a counter slice with a selectCount selector to get the cur
 <img width="875" height="851" alt="Screenshot 2025-08-28 161054" src="https://github.com/user-attachments/assets/cfdd20ad-011a-4c9f-8e81-6459dd4cb64b" />
 <img width="951" height="901" alt="Screenshot 2025-08-28 161143" src="https://github.com/user-attachments/assets/0ed72696-881b-42c2-b2c9-df82c25f8e9e" />
 <img width="951" height="972" alt="Screenshot 2025-08-28 161335" src="https://github.com/user-attachments/assets/ddd31c3e-37da-4baa-9637-31d4117ebf87" />
+
+# 📌 Introduction to Redux Toolkit (State Management)
+Screenshots I have attached for the previous task can be used as an evidence for this.
+
+## When should you use Redux instead of useState?
+Redux is useful when you need to manage state across multiple components or pages. If the state is simple and local to a single component, useState is enough. But when multiple components
