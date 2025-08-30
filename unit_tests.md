@@ -37,3 +37,14 @@ I created a simple utility function that adds two numbers and then wrote a Jest 
 <img width="679" height="458" alt="Screenshot 2025-08-30 145735" src="https://github.com/user-attachments/assets/06c54181-1a67-4b80-bc3d-588e6b6757ff" />
 <img width="763" height="345" alt="Screenshot 2025-08-30 145743" src="https://github.com/user-attachments/assets/d6df92b8-bc7f-4802-8728-8d36a590e0eb" />
 
+# 📌 Testing React Components with Jest & React Testing Library
+## What are the benefits of using React Testing Library instead of testing implementation details?
+React Testing Library (RTL) is useful because it allows you to test components from the user’s perspective rather than focusing on internal implementation details. Instead of checking whether a component has a certain class or state, RTL encourages verifying what the user actually sees and interacts with, such as text content, buttons, or input fields. This makes tests more reliable and less likely to break when the internal code changes, while also giving higher confidence that the UI behaves correctly in real-world scenarios.
+
+## What challenges did you encounter when simulating user interaction?
+For the demo, I created a simple Message component that displays a text and has a button. When the button is clicked, the message updates. I then wrote two tests using Jest and React Testing Library. The first test checked that the initial message renders correctly, and the second test simulated a button click and verified that the message updated as expected. Running these tests confirmed that the component behaves correctly, demonstrating how unit tests can validate both rendering and user interaction.
+
+I created a simple Message component that displays a text and has a button. When the button is clicked, the message updates. I then wrote two tests using Jest and React Testing Library. The first test checked that the initial message renders correctly, and the second test simulated a button click and verified that the message updated as expected. Running these tests confirmed that the component behaves correctly, demonstrating how unit tests can validate both rendering and user interaction.
+<img width="744" height="673" alt="Screenshot 2025-08-30 150858" src="https://github.com/user-attachments/assets/3d393448-c36a-4d6a-808b-e8942cd878b2" />
+<img width="1067" height="598" alt="Screenshot 2025-08-30 150911" src="https://github.com/user-attachments/assets/e329779e-894a-4c76-a571-dd57e87119fd" />
+<img width="1045" height="606" alt="Screenshot 2025-08-30 150919" src="https://github.com/user-attachments/assets/f3971def-bb33-40c7-8b4e-6053a3527e74" />
