@@ -23,3 +23,17 @@ For the demo, I created a React component that fetches data from a fake API. In 
 <img width="868" height="251" alt="Screenshot 2025-08-30 144806" src="https://github.com/user-attachments/assets/4df3af19-faf4-4857-b5af-5abda1929c97" />
 <img width="1099" height="771" alt="Screenshot 2025-08-30 144816" src="https://github.com/user-attachments/assets/e7f276e2-a288-4337-91ae-5ede88349b17" />
 <img width="982" height="626" alt="Screenshot 2025-08-30 144837" src="https://github.com/user-attachments/assets/a2c584ed-afa4-4847-a6da-2ff461f93e92" />
+
+# 📌 Introduction to Unit Testing with Jest
+## Why is automated testing important in software development?
+Automated testing is super important because it helps catch bugs early, prevents breaking existing features when updating code, and makes sure the app stays stable. It also saves time in the long run since you don’t have to manually check everything every time you make a change.
+
+## What did you find challenging when writing your first Jest test?
+The trickiest part was figuring out how to structure the test properly, especially understanding how Jest expects functions and values to be tested. It took some trial and error to write tests that actually check what they are supposed to, like verifying return values or mocking functions correctly.
+
+Demo of what I did:
+I created a simple utility function that adds two numbers and then wrote a Jest test to check if it returns the correct sum. I ran the test in the terminal and confirmed that it passes, showing that my first unit test works as expected.
+<img width="867" height="408" alt="Screenshot 2025-08-30 145728" src="https://github.com/user-attachments/assets/a153bf75-086c-4e16-8c90-263410815807" />
+<img width="679" height="458" alt="Screenshot 2025-08-30 145735" src="https://github.com/user-attachments/assets/06c54181-1a67-4b80-bc3d-588e6b6757ff" />
+<img width="763" height="345" alt="Screenshot 2025-08-30 145743" src="https://github.com/user-attachments/assets/d6df92b8-bc7f-4802-8728-8d36a590e0eb" />
+
