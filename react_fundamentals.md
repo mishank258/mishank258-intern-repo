@@ -57,3 +57,7 @@ The main challenge was making sure the config file (`tailwind.config.js`) was se
 <img width="1550" height="943" alt="Screenshot 2025-08-22 004621" src="https://github.com/user-attachments/assets/a16b7d41-cf81-4d77-a342-7ddbb5e0ffa2" />
 <img width="1111" height="317" alt="Screenshot 2025-08-22 004651" src="https://github.com/user-attachments/assets/a4bde849-de9f-4f2a-bd71-83285a7d5eba" />
 <img width="854" height="656" alt="Screenshot 2025-08-22 004705" src="https://github.com/user-attachments/assets/03719823-bea9-42fc-ac78-ba73d4e17930" />
+
+Setting up the React project with Tailwind CSS was both exciting and a bit tricky at first. I faced an issue where Tailwind styles weren’t applying correctly. The main challenge came from my config setup — I had errors in tailwind.config.js and also confused myself by trying to reset the project multiple times using rd /s /q and Remove-Item in PowerShell. That wasted some time because I wasn’t sure if the error was from Tailwind or my reset process.
+
+After carefully going step by step again and checking the @tailwind base; @tailwind components; @tailwind utilities; imports in my CSS, I finally got the styles working. Once Tailwind was running, it made my components much faster to style, especially with hover, active states, and responsive design.
