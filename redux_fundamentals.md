@@ -17,3 +17,7 @@ Screenshots I have attached for the previous task can be used as an evidence for
 
 ## When should you use Redux instead of useState?
 Redux is useful when you need to manage state across multiple components or pages. If the state is simple and local to a single component, useState is enough. But when multiple components
+
+Redux is useful when you need to manage state across multiple components or pages. If the state is simple and local to a single component, useState is enough. But when multiple components need to read or update the same state, Redux provides a central store that avoids prop drilling and keeps everything in sync.
+
+For example, in my counter project, I could have managed the count with useState inside the Counter.js file. That would work if only one component needed it. However, since I also wanted to display the counter value in another component (like a Summary.js), Redux was the better choice. With Redux, both components can subscribe to the same store and always stay up-to-date without manually passing props around.
