@@ -31,4 +31,7 @@ To meet the internship requirement of 120–140 hours, I have developed a detail
 ## Evidence of Hours
 - All sessions will be logged in **Focus Bear**.  
 - Sessions will be tagged as “Internship” for clarity.  
-- Weekly Focus Bear reports will confirm logged hours.  
+- Weekly Focus Bear reports will confirm logged hours.
+- 
+![WhatsApp Image 2025-09-09 at 15 05 47_7f3f30a9](https://github.com/user-attachments/assets/18dbff5b-711a-4abd-afea-ba96369b3f34)
+I have added the habit of standups for my working days.
